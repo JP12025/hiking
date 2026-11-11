@@ -1,7 +1,5 @@
 # Hiking
 
-![L'escalette](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pyrenees_escalette.JPG/320px-Pyrenees_escalette.JPG)
-
 # What to Do
 
 You have to solve [Day 10 of the Advent of Code 2024 **Part 1**](https://adventofcode.com/2024/day/10).
@@ -10,10 +8,7 @@ The problem is protected by Copyright, in consequence we cannot copy it here and
 
 In a file called `hiking.py`, write a Python program that reads the topographic map (the puzzle input) from a file whose name is given on the command line, then prints the answer of **Part 1**: the sum of the scores of all the trailheads of the map.
 
-```bash
-$ python hiking.py small_map.txt
-3
-```
+![Demo of hiking.py](hiking.gif)
 
 Your program should print only this number, nothing else.
 
